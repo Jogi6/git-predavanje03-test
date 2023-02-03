@@ -1,12 +1,8 @@
-import ClassComponent from "./ClassComponent";
-import FunComponent from "./FunComponent";
+import ClasCom from "./ClasCom";
 
 const App = () => {
   return (
-    <div>
-      <FunComponent/>
-      <ClassComponent/>
-    </div>
+    <ClasCom />
   );
 }
 
